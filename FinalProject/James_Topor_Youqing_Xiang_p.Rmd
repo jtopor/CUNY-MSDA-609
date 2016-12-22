@@ -1,0 +1,27 @@
+---
+title: "DATA 609 Fall 2016 Project Proposal"
+author: "Project Team: James Topor, Youqing Xiang"
+date: "October 16, 2016"
+output: pdf_document
+---
+
+For our Final Project we have selected __Option 1__ as described in the course syllabus, which requires that we select three projects from three different chapters of the textbook, with each of the three selected projects requiring a different mathematical modeling method. The selected projects are identified below.
+
+## Chapters 1 - 5
+
+From Chapters 1 - 5 we have selected __Chapter 5.3, Project #1__, which requires the use of __Monte Carlo Simulation__:
+
+![Image](Ch5p1.png)
+
+## Chapters 6 - 10
+
+From Chapters 6 - 10 we have selected __Chapter 9.4, Project #4__, which requires the use of __Decision Theory.__:
+
+![Image](Ch9p4.png)
+
+## Chapters 11 + 
+
+From chapters 11+ we have selected __Chapter 12.5, Project #2__, which requires the use of __Modeling with Systems of Differential Equations__ (Euler's Method).:
+
+![Image](Ch12p2.png)
+
